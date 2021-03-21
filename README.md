@@ -1,6 +1,6 @@
 # K8S Training
 
-This is a repo for my k8s training purposes and contains some couple stuff that i made in order to discover and learn `Kubernetes`.
+This is a repo for my k8s training purposes and contains some couple of stuff that i made in order to discover and learn `Kubernetes`.
 
 I use a local k8s cluster with `minikube`.
 
